@@ -47,4 +47,3 @@ A modern, scalable admin panel for hotel management with full CRUD operations, a
 
 <br />
 
-Built with ❤️ by Armin
