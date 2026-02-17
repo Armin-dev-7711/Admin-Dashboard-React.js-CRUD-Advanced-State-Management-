@@ -37,11 +37,11 @@ A modern, scalable admin panel for hotel management with full CRUD operations, a
 
 ### Dashboard Overview
 
-![Dashboard Overview](screenshots/DashboardsOne.PNG)
+![Dashboard Overview](screenshots/DashboardOne.PNG)
 
 ### Another View / Dashboard Two
 
-![Dashboard Two](screenshots/DashboardsTwo.PNG)
+![Dashboard Two](screenshots/DashboardTwo.PNG)
 
 > All screenshots are taken from the local development environment.
 
